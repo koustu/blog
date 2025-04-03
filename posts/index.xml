@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title>Posts on WELCOME MY BOSS</title>
-		<link>http://localhost:1313/posts/</link>
+		<link>https://koustu.github.io/blog/posts/</link>
 		<description>Recent content in Posts on WELCOME MY BOSS</description>
 		<generator>Hugo -- 0.145.0</generator>
 		<language>en-us</language>
 		<lastBuildDate>Tue, 01 Apr 2025 21:26:20 +0530</lastBuildDate>
-		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://koustu.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
 			<title>Top 5 Developer Tools</title>
-			<link>http://localhost:1313/posts/top-5-developer-tools/</link>
-			<pubDate>Tue, 01 Apr 2025 21:26:20 +0530</pubDate><guid>http://localhost:1313/posts/top-5-developer-tools/</guid>
+			<link>https://koustu.github.io/blog/posts/top-5-developer-tools/</link>
+			<pubDate>Tue, 01 Apr 2025 21:26:20 +0530</pubDate><guid>https://koustu.github.io/blog/posts/top-5-developer-tools/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="-top-5-developer-tools-for-2025">🛠️ Top 5 Developer Tools for 2025<a href="#-top-5-developer-tools-for-2025" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
@@ -56,8 +56,8 @@
 		
 		<item>
 			<title>Hugo vs Wordpress</title>
-			<link>http://localhost:1313/posts/hugo-vs-wordpress/</link>
-			<pubDate>Tue, 01 Apr 2025 21:23:35 +0530</pubDate><guid>http://localhost:1313/posts/hugo-vs-wordpress/</guid>
+			<link>https://koustu.github.io/blog/posts/hugo-vs-wordpress/</link>
+			<pubDate>Tue, 01 Apr 2025 21:23:35 +0530</pubDate><guid>https://koustu.github.io/blog/posts/hugo-vs-wordpress/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="hugo-vs-wordpress--which-one-is-right-for-you-">Hugo vs. WordPress – Which One is Right for You? 🆚<a href="#hugo-vs-wordpress--which-one-is-right-for-you-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
@@ -113,8 +113,8 @@
 		
 		<item>
 			<title>Myfirst</title>
-			<link>http://localhost:1313/posts/myfirst/</link>
-			<pubDate>Tue, 01 Apr 2025 21:20:54 +0530</pubDate><guid>http://localhost:1313/posts/myfirst/</guid>
+			<link>https://koustu.github.io/blog/posts/myfirst/</link>
+			<pubDate>Tue, 01 Apr 2025 21:20:54 +0530</pubDate><guid>https://koustu.github.io/blog/posts/myfirst/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="-my-journey-into-tech-blogging">🚀 My Journey into Tech Blogging<a href="#-my-journey-into-tech-blogging" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
@@ -160,8 +160,8 @@
 		
 		<item>
 			<title>How to Start Tech Blogging</title>
-			<link>http://localhost:1313/posts/how-to-start-tech-blogging/</link>
-			<pubDate>Fri, 01 Mar 2024 21:24:31 +0530</pubDate><guid>http://localhost:1313/posts/how-to-start-tech-blogging/</guid>
+			<link>https://koustu.github.io/blog/posts/how-to-start-tech-blogging/</link>
+			<pubDate>Fri, 01 Mar 2024 21:24:31 +0530</pubDate><guid>https://koustu.github.io/blog/posts/how-to-start-tech-blogging/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="how-to-start-tech-blogging-in-2025-">How to Start Tech Blogging in 2025 🚀<a href="#how-to-start-tech-blogging-in-2025-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>

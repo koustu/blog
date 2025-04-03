@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WELCOME MY BOSS</title><link>https://koustu.github.io/blog/</link><description>Recent content on WELCOME MY BOSS</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 02 Apr 2025 02:48:51 +0530</lastBuildDate><atom:link href="https://koustu.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://koustu.github.io/blog/contact/</link><pubDate>Wed, 02 Apr 2025 02:48:51 +0530</pubDate><guid>https://koustu.github.io/blog/contact/</guid><description>&lt;h1 id="contact-me">Contact Me&lt;a href="#contact-me" class="anchor" aria-hidden="true">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WELCOME MY BOSS</title><link>https://koustu.github.io/blog/</link><description>Recent content on WELCOME MY BOSS</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 03:14:37 +0530</lastBuildDate><atom:link href="https://koustu.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Happy</title><link>https://koustu.github.io/blog/posts/happy/</link><pubDate>Fri, 04 Apr 2025 03:14:37 +0530</pubDate><guid>https://koustu.github.io/blog/posts/happy/</guid><description>&lt;p>Welcome to my first blog post using Hugo and the awesome Hermit-V2 theme! 🎉&lt;/p>
+&lt;h2 id="-what-is-this">🚀 What is this?&lt;a href="#-what-is-this" class="anchor" aria-hidden="true">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+ stroke-linecap="round" stroke-linejoin="round">
+ &lt;path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3">&lt;/path>
+ &lt;line x1="8" y1="12" x2="16" y2="12">&lt;/line>
+ &lt;/svg>&lt;/a>&lt;/h2>
+&lt;p>This is a test post to make sure everything from:&lt;/p>
+&lt;ul>
+&lt;li>Writing in Markdown&lt;/li>
+&lt;li>Rendering with Hugo&lt;/li>
+&lt;li>Deploying with GitHub Actions&lt;/li>
+&lt;/ul>
+&lt;p>&amp;hellip;works perfectly.&lt;/p></description></item><item><title>Contact</title><link>https://koustu.github.io/blog/contact/</link><pubDate>Wed, 02 Apr 2025 02:48:51 +0530</pubDate><guid>https://koustu.github.io/blog/contact/</guid><description>&lt;h1 id="contact-me">Contact Me&lt;a href="#contact-me" class="anchor" aria-hidden="true">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
  stroke-linecap="round" stroke-linejoin="round">
  &lt;path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3">&lt;/path>
  &lt;line x1="8" y1="12" x2="16" y2="12">&lt;/line>

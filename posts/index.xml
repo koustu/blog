@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Posts on WELCOME MY BOSS</title><link>https://koustu.github.io/blog/posts/</link><description>Recent content in Posts on WELCOME MY BOSS</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 21:26:20 +0530</lastBuildDate><atom:link href="https://koustu.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Top 5 Developer Tools</title><link>https://koustu.github.io/blog/posts/top-5-developer-tools/</link><pubDate>Tue, 01 Apr 2025 21:26:20 +0530</pubDate><guid>https://koustu.github.io/blog/posts/top-5-developer-tools/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<h1 id="-top-5-developer-tools-for-2025">🛠️ Top 5 Developer Tools for 2025<a href="#-top-5-developer-tools-for-2025" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Posts on WELCOME MY BOSS</title><link>https://koustu.github.io/blog/posts/</link><description>Recent content in Posts on WELCOME MY BOSS</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 03:14:37 +0530</lastBuildDate><atom:link href="https://koustu.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Happy</title><link>https://koustu.github.io/blog/posts/happy/</link><pubDate>Fri, 04 Apr 2025 03:14:37 +0530</pubDate><guid>https://koustu.github.io/blog/posts/happy/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<p>Welcome to my first blog post using Hugo and the awesome Hermit-V2 theme! 🎉</p>
+<h2 id="-what-is-this">🚀 What is this?<a href="#-what-is-this" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>This is a test post to make sure everything from:</p>
+<ul>
+<li>Writing in Markdown</li>
+<li>Rendering with Hugo</li>
+<li>Deploying with GitHub Actions</li>
+</ul>
+<p>&hellip;works perfectly.</p>
+<h2 id="-tech-stack">🛠 Tech Stack<a href="#-tech-stack" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>Static Site Generator: Hugo</li>
+<li>Theme: Hermit-V2</li>
+<li>Hosting: GitHub Pages</li>
+<li>Deployment: GitHub Actions</li>
+</ul>
+<h2 id="-next-steps">🧠 Next Steps<a href="#-next-steps" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>Write more posts</li>
+<li>Add an &ldquo;About Me&rdquo; page</li>
+<li>Customize the theme</li>
+<li>Automate content ideas? 🤖</li>
+</ul>
+<p>Thanks for visiting — more content soon! 🙌</p>
+]]></content></item><item><title>Top 5 Developer Tools</title><link>https://koustu.github.io/blog/posts/top-5-developer-tools/</link><pubDate>Tue, 01 Apr 2025 21:26:20 +0530</pubDate><guid>https://koustu.github.io/blog/posts/top-5-developer-tools/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<h1 id="-top-5-developer-tools-for-2025">🛠️ Top 5 Developer Tools for 2025<a href="#-top-5-developer-tools-for-2025" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>

@@ -1,0 +1,44 @@
+baseURL = 'http://localhost:1313'
+languageCode = 'en-us'
+title = 'WELCOME MY BOSS'
+theme = 'hermit-V2'
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+
+
+[[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/koustu"
+    icon = "github"
+
+[[params.socialLinks]]
+    name = "instagram"
+    url = "https://www.instagram.com/nehakakkar"
+  
+[menu]
+  [[menu.main]]
+    name = "🏠 Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "📝 Blog"
+    url = "/posts/"
+    weight = 2
+
+
+ [[menu.main]]
+  name = "👤 About"
+  url = "/about/"
+  weight = 2
+
+
+  [[menu.main]]
+    name = "📩 Contact"
+    url = "/contact/"
+    weight = 6

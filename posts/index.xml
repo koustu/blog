@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Posts on WELCOME MY BOSS</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on WELCOME MY BOSS</description>
+		<generator>Hugo -- 0.145.0</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 01 Apr 2025 21:26:20 +0530</lastBuildDate>
+		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		
+		<item>
+			<title>Top 5 Developer Tools</title>
+			<link>http://localhost:1313/posts/top-5-developer-tools/</link>
+			<pubDate>Tue, 01 Apr 2025 21:26:20 +0530</pubDate><guid>http://localhost:1313/posts/top-5-developer-tools/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="-top-5-developer-tools-for-2025">🛠️ Top 5 Developer Tools for 2025<a href="#-top-5-developer-tools-for-2025" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>Every developer needs <strong>powerful tools</strong> to stay productive. Here are my top picks:</p>
+<h3 id="1-visual-studio-code-vs-code-"><strong>1️⃣ Visual Studio Code (VS Code) 🖥️</strong><a href="#1-visual-studio-code-vs-code-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>💡 Best code editor with amazing extensions!</p>
+<h3 id="2-github-copilot-"><strong>2️⃣ GitHub Copilot 🤖</strong><a href="#2-github-copilot-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>🚀 AI-powered coding assistant for faster development.</p>
+<h3 id="3-docker-"><strong>3️⃣ Docker 🐳</strong><a href="#3-docker-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>📦 Build, ship, and run applications in containers.</p>
+<h3 id="4-postman-"><strong>4️⃣ Postman 📡</strong><a href="#4-postman-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>🔍 The best API testing tool for developers.</p>
+<h3 id="5-raycast-"><strong>5️⃣ Raycast ⚡</strong><a href="#5-raycast-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>🎯 A supercharged productivity launcher for Mac users.</p>
+<p>Which tool is your favorite? Drop a comment below! 💬</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Hugo vs Wordpress</title>
+			<link>http://localhost:1313/posts/hugo-vs-wordpress/</link>
+			<pubDate>Tue, 01 Apr 2025 21:23:35 +0530</pubDate><guid>http://localhost:1313/posts/hugo-vs-wordpress/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="hugo-vs-wordpress--which-one-is-right-for-you-">Hugo vs. WordPress – Which One is Right for You? 🆚<a href="#hugo-vs-wordpress--which-one-is-right-for-you-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>If you&rsquo;re planning to start a blog, <strong>Hugo</strong> and <strong>WordPress</strong> are two great options. But which one should you choose? Let&rsquo;s compare:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>Hugo 🏗️</th>
+          <th>WordPress 📝</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Speed ⚡</td>
+          <td>Super Fast (Static)</td>
+          <td>Slower (Dynamic)</td>
+      </tr>
+      <tr>
+          <td>Customization 🎨</td>
+          <td>High (Markdown + Templates)</td>
+          <td>High (Themes &amp; Plugins)</td>
+      </tr>
+      <tr>
+          <td>Ease of Use 👨‍💻</td>
+          <td>For Developers</td>
+          <td>Beginner-Friendly</td>
+      </tr>
+      <tr>
+          <td>Hosting 💻</td>
+          <td>Free on Netlify/GitHub Pages</td>
+          <td>Needs Hosting (like Bluehost)</td>
+      </tr>
+      <tr>
+          <td>Security 🔒</td>
+          <td>More Secure</td>
+          <td>Can be Vulnerable</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="-my-recommendation"><strong>🚀 My Recommendation</strong><a href="#-my-recommendation" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>✅ If you love <strong>customization &amp; speed</strong>, go with <strong>Hugo</strong>.<br>
+✅ If you prefer a <strong>ready-to-go CMS</strong>, choose <strong>WordPress</strong>.</p>
+<p>Which one do you use? Let me know in the comments! 💬</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Myfirst</title>
+			<link>http://localhost:1313/posts/myfirst/</link>
+			<pubDate>Tue, 01 Apr 2025 21:20:54 +0530</pubDate><guid>http://localhost:1313/posts/myfirst/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="-my-journey-into-tech-blogging">🚀 My Journey into Tech Blogging<a href="#-my-journey-into-tech-blogging" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>Hello, world! 🎉 Welcome to my very first blog post. If you&rsquo;re reading this, you&rsquo;re either interested in <strong>tech blogging</strong>, <strong>Hugo</strong>, or just stumbled upon my site by accident (which is totally fine).</p>
+<p>I&rsquo;ve always been passionate about technology—whether it&rsquo;s <strong>web development, AI, cybersecurity, or DevOps</strong>. This blog is my way of documenting my journey, sharing my learnings, and helping others along the way.</p>
+<hr>
+<h2 id="-why-i-started-this-blog">🛠️ Why I Started This Blog<a href="#-why-i-started-this-blog" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Every tech enthusiast eventually reaches a point where they think, <em>&ldquo;Hey, I should start a blog!&rdquo;</em> For me, that moment came when I realized that:</p>
+<p>✅ Writing helps reinforce learning 📚<br>
+✅ Sharing knowledge builds a great community 🤝<br>
+✅ A personal blog acts as a <strong>public portfolio</strong> 🚀</p>
+<p>I wanted a <strong>minimal, fast, and elegant blog</strong>, so I chose <strong>Hugo with the Congo theme</strong>. Now, here we are!</p>
+<hr>
+<h2 id="-what-youll-find-here">🎯 What You’ll Find Here<a href="#-what-youll-find-here" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>🔹 <strong>Tutorials &amp; How-To Guides</strong> – Covering everything from setting up a Hugo site to debugging code.<br>
+🔹 <strong>Tech Reviews &amp; Tools</strong> – Sharing my favorite software, frameworks, and productivity hacks.<br>
+🔹 <strong>Project Showcases</strong> – My side projects, experiments, and open-source contributions.<br>
+🔹 <strong>Personal Experiences</strong> – Challenges, lessons, and the ups &amp; downs of a tech career.</p>
+<hr>
+<h2 id="-my-first-tech-experience">🔥 My First Tech Experience<a href="#-my-first-tech-experience" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>I still remember the first time I wrote a <strong>Hello World</strong> program. It wasn’t in Python or JavaScript—it was in <strong>C</strong> on an old Windows XP machine.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-c" data-lang="c"><span style="display:flex;"><span><span style="color:#75715e">#include</span> <span style="color:#75715e">&lt;stdio.h&gt;</span><span style="color:#75715e">
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">int</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">printf</span>(<span style="color:#e6db74">&#34;Hello, World!</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#34;</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div>]]></content>
+		</item>
+		
+		<item>
+			<title>How to Start Tech Blogging</title>
+			<link>http://localhost:1313/posts/how-to-start-tech-blogging/</link>
+			<pubDate>Fri, 01 Mar 2024 21:24:31 +0530</pubDate><guid>http://localhost:1313/posts/how-to-start-tech-blogging/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="how-to-start-tech-blogging-in-2025-">How to Start Tech Blogging in 2025 🚀<a href="#how-to-start-tech-blogging-in-2025-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>So, you want to start a <strong>tech blog</strong>? Here’s how to do it in just <strong>5 steps</strong>:</p>
+<h3 id="1-choose-a-platform"><strong>1️⃣ Choose a Platform</strong><a href="#1-choose-a-platform" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>🔹 <strong>Hugo</strong> – Super fast &amp; easy (like this blog!)<br>
+🔹 <strong>WordPress</strong> – More beginner-friendly</p>
+<h3 id="2-pick-a-niche"><strong>2️⃣ Pick a Niche</strong><a href="#2-pick-a-niche" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Ask yourself:<br>
+✅ What topics excite me?<br>
+✅ What do I want to share with others?</p>
+<p>Some ideas:</p>
+<ul>
+<li>Web Development 🌐</li>
+<li>AI &amp; Machine Learning 🤖</li>
+<li>Cybersecurity 🔐</li>
+<li>Cloud &amp; DevOps ☁️</li>
+</ul>
+<h3 id="3-write-your-first-blog-post"><strong>3️⃣ Write Your First Blog Post</strong><a href="#3-write-your-first-blog-post" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Start simple:</p>
+<ul>
+<li><strong>What problem did you recently solve?</strong></li>
+<li><strong>What tech tools do you love?</strong></li>
+</ul>
+<h3 id="4-set-up-hosting"><strong>4️⃣ Set Up Hosting</strong><a href="#4-set-up-hosting" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Hugo users: <strong>Deploy on Netlify for free</strong> 🚀</p>
+<h3 id="5-share-your-blog"><strong>5️⃣ Share Your Blog!</strong><a href="#5-share-your-blog" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Post on <strong>Twitter, LinkedIn, Reddit, and Dev.to</strong>.</p>
+<p>✅ <strong>Done!</strong> Welcome to the world of blogging! 🌍</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

@@ -2,18 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title>Posts on WELCOME MY BOSS</title>
-		<link>https://koustu.github.io/blog/posts/</link>
+		<link>http://localhost:1313/posts/</link>
 		<description>Recent content in Posts on WELCOME MY BOSS</description>
 		<generator>Hugo -- 0.145.0</generator>
 		<language>en-us</language>
-		<lastBuildDate>Tue, 01 Apr 2025 21:26:20 +0530</lastBuildDate>
-		<atom:link href="https://koustu.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Fri, 04 Apr 2025 03:14:37 +0530</lastBuildDate>
+		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
+			<title>Happy</title>
+			<link>http://localhost:1313/posts/happy/</link>
+			<pubDate>Fri, 04 Apr 2025 03:14:37 +0530</pubDate><guid>http://localhost:1313/posts/happy/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>Welcome to my first blog post using Hugo and the awesome Hermit-V2 theme! 🎉</p>
+<h2 id="-what-is-this">🚀 What is this?<a href="#-what-is-this" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>This is a test post to make sure everything from:</p>
+<ul>
+<li>Writing in Markdown</li>
+<li>Rendering with Hugo</li>
+<li>Deploying with GitHub Actions</li>
+</ul>
+<p>&hellip;works perfectly.</p>
+<h2 id="-tech-stack">🛠 Tech Stack<a href="#-tech-stack" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>Static Site Generator: Hugo</li>
+<li>Theme: Hermit-V2</li>
+<li>Hosting: GitHub Pages</li>
+<li>Deployment: GitHub Actions</li>
+</ul>
+<h2 id="-next-steps">🧠 Next Steps<a href="#-next-steps" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>Write more posts</li>
+<li>Add an &ldquo;About Me&rdquo; page</li>
+<li>Customize the theme</li>
+<li>Automate content ideas? 🤖</li>
+</ul>
+<p>Thanks for visiting — more content soon! 🙌</p>
+]]></content>
+		</item>
+		
+		<item>
 			<title>Top 5 Developer Tools</title>
-			<link>https://koustu.github.io/blog/posts/top-5-developer-tools/</link>
-			<pubDate>Tue, 01 Apr 2025 21:26:20 +0530</pubDate><guid>https://koustu.github.io/blog/posts/top-5-developer-tools/</guid>
+			<link>http://localhost:1313/posts/top-5-developer-tools/</link>
+			<pubDate>Tue, 01 Apr 2025 21:26:20 +0530</pubDate><guid>http://localhost:1313/posts/top-5-developer-tools/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="-top-5-developer-tools-for-2025">🛠️ Top 5 Developer Tools for 2025<a href="#-top-5-developer-tools-for-2025" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
@@ -56,8 +99,8 @@
 		
 		<item>
 			<title>Hugo vs Wordpress</title>
-			<link>https://koustu.github.io/blog/posts/hugo-vs-wordpress/</link>
-			<pubDate>Tue, 01 Apr 2025 21:23:35 +0530</pubDate><guid>https://koustu.github.io/blog/posts/hugo-vs-wordpress/</guid>
+			<link>http://localhost:1313/posts/hugo-vs-wordpress/</link>
+			<pubDate>Tue, 01 Apr 2025 21:23:35 +0530</pubDate><guid>http://localhost:1313/posts/hugo-vs-wordpress/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="hugo-vs-wordpress--which-one-is-right-for-you-">Hugo vs. WordPress – Which One is Right for You? 🆚<a href="#hugo-vs-wordpress--which-one-is-right-for-you-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
@@ -113,14 +156,16 @@
 		
 		<item>
 			<title>Myfirst</title>
-			<link>https://koustu.github.io/blog/posts/myfirst/</link>
-			<pubDate>Tue, 01 Apr 2025 21:20:54 +0530</pubDate><guid>https://koustu.github.io/blog/posts/myfirst/</guid>
+			<link>http://localhost:1313/posts/myfirst/</link>
+			<pubDate>Tue, 01 Apr 2025 21:20:54 +0530</pubDate><guid>http://localhost:1313/posts/myfirst/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="-my-journey-into-tech-blogging">🚀 My Journey into Tech Blogging<a href="#-my-journey-into-tech-blogging" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h1>
 <p>Hello, world! 🎉 Welcome to my very first blog post. If you&rsquo;re reading this, you&rsquo;re either interested in <strong>tech blogging</strong>, <strong>Hugo</strong>, or just stumbled upon my site by accident (which is totally fine).</p>
+<p><img src="/images/image-331.jpg" alt="Cool m"></p>
+<p>If you&rsquo;re seeing this text but not the image above, image is missing or path is wrong.</p>
 <p>I&rsquo;ve always been passionate about technology—whether it&rsquo;s <strong>web development, AI, cybersecurity, or DevOps</strong>. This blog is my way of documenting my journey, sharing my learnings, and helping others along the way.</p>
 <hr>
 <h2 id="-why-i-started-this-blog">🛠️ Why I Started This Blog<a href="#-why-i-started-this-blog" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
@@ -160,8 +205,8 @@
 		
 		<item>
 			<title>How to Start Tech Blogging</title>
-			<link>https://koustu.github.io/blog/posts/how-to-start-tech-blogging/</link>
-			<pubDate>Fri, 01 Mar 2024 21:24:31 +0530</pubDate><guid>https://koustu.github.io/blog/posts/how-to-start-tech-blogging/</guid>
+			<link>http://localhost:1313/posts/how-to-start-tech-blogging/</link>
+			<pubDate>Fri, 01 Mar 2024 21:24:31 +0530</pubDate><guid>http://localhost:1313/posts/how-to-start-tech-blogging/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="how-to-start-tech-blogging-in-2025-">How to Start Tech Blogging in 2025 🚀<a href="#how-to-start-tech-blogging-in-2025-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>

@@ -1,4 +1,5 @@
 baseURL = 'https://koustu.github.io/blog/'
+
 languageCode = 'en-us'
 title = 'WELCOME MY BOSS'
 theme = 'hermit-V2'
@@ -8,6 +9,7 @@ theme = 'hermit-V2'
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+  comments = true
 
 
 
@@ -18,7 +20,7 @@ theme = 'hermit-V2'
 
 [[params.socialLinks]]
     name = "instagram"
-    url = "https://www.instagram.com/nehakakkar"
+    url = "https://www.instagram.com/miakhalifa"
   
 [menu]
   [[menu.main]]

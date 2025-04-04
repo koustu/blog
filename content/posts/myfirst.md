@@ -7,6 +7,11 @@ title = 'Myfirst'
 
 Hello, world! 🎉 Welcome to my very first blog post. If you're reading this, you're either interested in **tech blogging**, **Hugo**, or just stumbled upon my site by accident (which is totally fine).  
 
+![Cool m](/images/image-331.jpg)
+
+If you're seeing this text but not the image above, image is missing or path is wrong.
+
+
 I've always been passionate about technology—whether it's **web development, AI, cybersecurity, or DevOps**. This blog is my way of documenting my journey, sharing my learnings, and helping others along the way.
 
 ---

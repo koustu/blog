@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on WELCOME MY BOSS</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on WELCOME MY BOSS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Apr 2025 03:14:37 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy</title>
+      <link>http://localhost:1313/posts/happy/</link>
+      <pubDate>Fri, 04 Apr 2025 03:14:37 +0530</pubDate>
+      <guid>http://localhost:1313/posts/happy/</guid>
+      <description>&lt;p&gt;Welcome to my first blog post using Hugo and the awesome Hermit-V2 theme! 🎉&lt;/p&gt;&#xA;&lt;h2 id=&#34;-what-is-this&#34;&gt;🚀 What is this?&lt;a href=&#34;#-what-is-this&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xD;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xD;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xD;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xD;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This is a test post to make sure everything from:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Writing in Markdown&lt;/li&gt;&#xA;&lt;li&gt;Rendering with Hugo&lt;/li&gt;&#xA;&lt;li&gt;Deploying with GitHub Actions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&amp;hellip;works perfectly.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
